@@ -1,2 +1,3 @@
 *.dSym
 bin/
+.DS_Store
